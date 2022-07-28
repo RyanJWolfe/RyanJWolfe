@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on building web apps for small businesses
 - 🌱 I’m currently learning how to efficiently build MVPs
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about anything
+- 💬 Ask me about increasing productivity while coding
 - 📫 How to reach me: https://ryanjwolfe.com, or xryanwolfe@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: My fingers are double jointed
