@@ -1,6 +1,8 @@
-### Hi there 👋, my name is Ryan
+### Hi there 👋
 
-I am a senior software engineer proficient in Ruby/RoR, Python, JavaScript, C#/.NET, and C/C++.
+My name is Ryan Wolfe, I am a senior software engineer with experience in Ruby/RoR, Python, JavaScript, C#/.NET, and C/C++.  (in order from most >- least experience)
+
+
 
 <!--
 **RyanJWolfe/RyanJWolfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
