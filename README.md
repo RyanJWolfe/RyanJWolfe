@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🔭 I’m currently working on building web apps for small businesses
+- 🏢 I'm currently working at **StrongMind**
+- 🔭 In my free time, I am building web apps for small businesses
 - 🌱 I’m currently learning how to efficiently build MVPs
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about increasing productivity while coding
-- 📫 How to reach me: https://ryanjwolfe.com, or xryanwolfe@gmail.com
+- 📫 How to reach me: https://ryanjwolfe.com
 - ⚡ Fun fact: My fingers are double jointed
