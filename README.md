@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, my name is Ryan
+
+I am a senior software engineer proficient in Ruby/RoR, Python, JavaScript, C#/.NET, and C/C++.
 
 <!--
 **RyanJWolfe/RyanJWolfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on building web apps for small businesses
+- 🌱 I’m currently learning how to efficiently build MVPs
+- 👯 I’m looking to collaborate on open source projects
+- 💬 Ask me about anything
+- 📫 How to reach me: https://ryanjwolfe.com, or xryanwolfe@gmail.com
+- ⚡ Fun fact: ...
