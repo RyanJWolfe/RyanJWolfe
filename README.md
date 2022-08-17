@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ryan Wolfe, I am a senior software engineer with experience in Ruby/RoR, Python, JavaScript, C#/.NET, and C/C++.
+My name is Ryan Wolfe, I am a senior software engineer with professional experience in Ruby/RoR, Python, JavaScript, C#/.NET, and C/C++.
 
 
 <!--
