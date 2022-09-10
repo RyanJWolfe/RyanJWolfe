@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: My fingers are double jointed
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanJWolfe)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanJWolfe&count_private=true)
