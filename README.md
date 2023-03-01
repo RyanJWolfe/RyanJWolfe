@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🏢 I'm currently working at **StrongMind**
+- 🏢 I'm currently working as a Software Team Lead at **StrongMind**
 - 🔭 In my free time, I am building web apps for small businesses
 - 🌱 I’m currently learning how to efficiently build MVPs
 - 👯 I’m looking to collaborate on open source projects
