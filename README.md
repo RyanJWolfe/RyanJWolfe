@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 - 🏢 I'm currently working as a Software Team Lead at **StrongMind**
 - 🔭 In my free time, I am building web apps for small businesses
-- 🌱 I’m currently learning how to efficiently build MVPs
+- 🌱 I’m currently learning how to produce music
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about increasing productivity while coding
 - 📫 How to reach me: https://ryanjwolfe.com
