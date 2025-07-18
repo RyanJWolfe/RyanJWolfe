@@ -18,13 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🏢 I'm currently working as a Software Team Lead at **StrongMind**
-- 🔭 In my free time, I am building web apps for small businesses
-- 🌱 I’m currently learning how to produce music
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about increasing productivity while coding
-- 📫 How to reach me: https://ryanjwolfe.com
-- ⚡ Fun fact: My fingers are double jointed
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanJWolfe&count_private=true&show_icons=true&theme=radical)-->
 
